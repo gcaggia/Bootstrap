@@ -1,0 +1,12 @@
+{
+    "name": "guillaume/bootstrap",
+    "require": {
+        "twbs/bootstrap": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Guillaume Caggia",
+            "email": "guillaume.caggia@gmail.com"
+        }
+    ]
+}
